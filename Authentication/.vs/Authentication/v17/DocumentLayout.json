@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Authentication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CC411-E0A2-44C4-80D2-12097764024B}|Authentication\\Authentication.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\authentication\\authentication\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F79CC411-E0A2-44C4-80D2-12097764024B}|Authentication\\Authentication.csproj|solutionrelative:authentication\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CC411-E0A2-44C4-80D2-12097764024B}|Authentication\\Authentication.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\authentication\\authentication\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F79CC411-E0A2-44C4-80D2-12097764024B}|Authentication\\Authentication.csproj|solutionrelative:authentication\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CC411-E0A2-44C4-80D2-12097764024B}|Authentication\\Authentication.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\authentication\\authentication\\areas\\identity\\data\\authenticationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79CC411-E0A2-44C4-80D2-12097764024B}|Authentication\\Authentication.csproj|solutionrelative:authentication\\areas\\identity\\data\\authenticationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CC411-E0A2-44C4-80D2-12097764024B}|Authentication\\Authentication.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\authentication\\authentication\\areas\\identity\\data\\authenticationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79CC411-E0A2-44C4-80D2-12097764024B}|Authentication\\Authentication.csproj|solutionrelative:authentication\\areas\\identity\\data\\authenticationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CC411-E0A2-44C4-80D2-12097764024B}|Authentication\\Authentication.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\authentication\\authentication\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F79CC411-E0A2-44C4-80D2-12097764024B}|Authentication\\Authentication.csproj|solutionrelative:authentication\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Authentication\\Authentication\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Authentication\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Authentication\\Authentication\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Authentication\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T09:05:50.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Authentication\\Authentication\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Authentication\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Authentication\\Authentication\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Authentication\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T09:05:47.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthenticationContext.cs",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Authentication\\Authentication\\Areas\\Identity\\Data\\AuthenticationContext.cs",
+              "RelativeDocumentMoniker": "Authentication\\Areas\\Identity\\Data\\AuthenticationContext.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Authentication\\Authentication\\Areas\\Identity\\Data\\AuthenticationContext.cs",
+              "RelativeToolTip": "Authentication\\Areas\\Identity\\Data\\AuthenticationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:05:36.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthenticationUser.cs",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Authentication\\Authentication\\Areas\\Identity\\Data\\AuthenticationUser.cs",
+              "RelativeDocumentMoniker": "Authentication\\Areas\\Identity\\Data\\AuthenticationUser.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Authentication\\Authentication\\Areas\\Identity\\Data\\AuthenticationUser.cs",
+              "RelativeToolTip": "Authentication\\Areas\\Identity\\Data\\AuthenticationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:05:34.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Authentication\\Authentication\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Authentication\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Authentication\\Authentication\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Authentication\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-21T09:02:52.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
