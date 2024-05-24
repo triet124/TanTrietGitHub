@@ -13,9 +13,9 @@ namespace BookTemplate.Controllers
         {
             get
             {
-                if (Session["Books"] == null)
+                if (Session["_Books"] == null)
                 {
-                    Session["Books"] = new List<Book>()
+                    Session["_Books"] = new List<Book>()
                     {
                         new Book() {
                             Id = 1, 
@@ -27,11 +27,11 @@ namespace BookTemplate.Controllers
                         }
                     };
                 }
-                return (List<Book>)Session["Books"];
+                return (List<Book>)Session["_Books"];
             }
             set
             {
-                Session["Books"] = value;
+                Session["_Books"] = value;
             }
         }
 

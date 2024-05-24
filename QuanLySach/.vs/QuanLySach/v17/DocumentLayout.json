@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\QuanLySach\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D33238F-9B86-4BE0-8028-B52AE3881878}|BookTemplate\\BookTemplate.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\quanlysach\\booktemplate\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6D33238F-9B86-4BE0-8028-B52AE3881878}|BookTemplate\\BookTemplate.csproj|solutionrelative:booktemplate\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D33238F-9B86-4BE0-8028-B52AE3881878}|BookTemplate\\BookTemplate.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\quanlysach\\booktemplate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6D33238F-9B86-4BE0-8028-B52AE3881878}|BookTemplate\\BookTemplate.csproj|solutionrelative:booktemplate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6D33238F-9B86-4BE0-8028-B52AE3881878}|BookTemplate\\BookTemplate.csproj|D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\QuanLySach\\booktemplate\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D33238F-9B86-4BE0-8028-B52AE3881878}|BookTemplate\\BookTemplate.csproj|solutionrelative:booktemplate\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D33238F-9B86-4BE0-8028-B52AE3881878}|BookTemplate\\BookTemplate.csproj|D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\QuanLySach\\booktemplate\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D33238F-9B86-4BE0-8028-B52AE3881878}|BookTemplate\\BookTemplate.csproj|solutionrelative:booktemplate\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D33238F-9B86-4BE0-8028-B52AE3881878}|BookTemplate\\BookTemplate.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\quanlysach\\booktemplate\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D33238F-9B86-4BE0-8028-B52AE3881878}|BookTemplate\\BookTemplate.csproj|solutionrelative:booktemplate\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D33238F-9B86-4BE0-8028-B52AE3881878}|BookTemplate\\BookTemplate.csproj|D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\QuanLySach\\booktemplate\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D33238F-9B86-4BE0-8028-B52AE3881878}|BookTemplate\\BookTemplate.csproj|solutionrelative:booktemplate\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D33238F-9B86-4BE0-8028-B52AE3881878}|BookTemplate\\BookTemplate.csproj|D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\QuanLySach\\booktemplate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D33238F-9B86-4BE0-8028-B52AE3881878}|BookTemplate\\BookTemplate.csproj|solutionrelative:booktemplate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +38,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\QuanLySach\\BookTemplate\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "BookTemplate\\Views\\Home\\Create.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\QuanLySach\\BookTemplate\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "BookTemplate\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T03:08:55.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\QuanLySach\\BookTemplate\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "BookTemplate\\Views\\Shared\\_Layout.cshtml",
@@ -47,20 +63,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\QuanLySach\\BookTemplate\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "BookTemplate\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\QuanLySach\\BookTemplate\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "BookTemplate\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAABwAAAAiAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-20T03:03:06.864Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Book.cs",
               "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\QuanLySach\\BookTemplate\\Models\\Book.cs",
               "RelativeDocumentMoniker": "BookTemplate\\Models\\Book.cs",
@@ -73,13 +89,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\QuanLySach\\BookTemplate\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "BookTemplate\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\QuanLySach\\BookTemplate\\Controllers\\HomeController.cs",
               "RelativeToolTip": "BookTemplate\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAqwBoAAAAYAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAwwAkAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T02:51:07.895Z",
               "EditorCaption": ""
