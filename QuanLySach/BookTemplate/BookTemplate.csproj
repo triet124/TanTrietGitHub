@@ -151,6 +151,8 @@
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="Scripts\app.js" />
+    <Content Include="Scripts\areas.js" />
+    <Content Include="Scripts\bars.js" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
@@ -158,9 +160,15 @@
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
+    <Content Include="Scripts\bullets.js" />
+    <Content Include="Scripts\d3.min.js" />
+    <Content Include="Scripts\d3_tooltip.js" />
+    <Content Include="Scripts\dashboard.js" />
     <Content Include="Scripts\demo_configuration.js" />
+    <Content Include="Scripts\donuts.js" />
     <Content Include="Scripts\form_validation_libaries.js" />
     <Content Include="Scripts\form_validation_style.js" />
+    <Content Include="Scripts\heatmaps.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
     <Content Include="Scripts\jquery-3.4.1.slim.js" />
@@ -171,8 +179,13 @@
     <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
+    <Content Include="Scripts\line.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
+    <Content Include="Scripts\pies.js" />
+    <Content Include="Scripts\progress.js" />
     <Content Include="Scripts\select2.min.js" />
+    <Content Include="Scripts\sparklines.js" />
+    <Content Include="Scripts\streamgraph.js" />
     <Content Include="Scripts\validate.min.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
@@ -190,6 +203,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Images\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap.rtl.min.css.map" />
