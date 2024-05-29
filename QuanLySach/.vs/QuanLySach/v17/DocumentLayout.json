@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\QuanLySach\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D33238F-9B86-4BE0-8028-B52AE3881878}|BookTemplate\\BookTemplate.csproj|D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\QuanLySach\\booktemplate\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D33238F-9B86-4BE0-8028-B52AE3881878}|BookTemplate\\BookTemplate.csproj|solutionrelative:booktemplate\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6D33238F-9B86-4BE0-8028-B52AE3881878}|BookTemplate\\BookTemplate.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\quanlysach\\booktemplate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6D33238F-9B86-4BE0-8028-B52AE3881878}|BookTemplate\\BookTemplate.csproj|solutionrelative:booktemplate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D33238F-9B86-4BE0-8028-B52AE3881878}|BookTemplate\\BookTemplate.csproj|D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\QuanLySach\\booktemplate\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D33238F-9B86-4BE0-8028-B52AE3881878}|BookTemplate\\BookTemplate.csproj|solutionrelative:booktemplate\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D33238F-9B86-4BE0-8028-B52AE3881878}|BookTemplate\\BookTemplate.csproj|D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\QuanLySach\\booktemplate\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,13 +34,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\QuanLySach\\BookTemplate\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "BookTemplate\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\QuanLySach\\BookTemplate\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "BookTemplate\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAALsBAAAAAAAAAAAAAOIFAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-24T02:36:56.472Z",
               "EditorCaption": ""
@@ -72,16 +72,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\QuanLySach\\BookTemplate\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "BookTemplate\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\QuanLySach\\BookTemplate\\Controllers\\HomeController.cs",
               "RelativeToolTip": "BookTemplate\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAqwDkAAAAIAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAAUwDkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T02:51:07.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-20T02:51:07.895Z"
             }
           ]
         }
