@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Jequery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD215B35-EBFE-44A0-9B93-50017FF14C0F}|Jequery\\Jequery.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\jequery\\jequery\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD215B35-EBFE-44A0-9B93-50017FF14C0F}|Jequery\\Jequery.csproj|solutionrelative:jequery\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD215B35-EBFE-44A0-9B93-50017FF14C0F}|Jequery\\Jequery.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\jequery\\jequery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD215B35-EBFE-44A0-9B93-50017FF14C0F}|Jequery\\Jequery.csproj|solutionrelative:jequery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD215B35-EBFE-44A0-9B93-50017FF14C0F}|Jequery\\Jequery.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\jequery\\jequery\\wwwroot\\js\\selector.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BD215B35-EBFE-44A0-9B93-50017FF14C0F}|Jequery\\Jequery.csproj|solutionrelative:jequery\\wwwroot\\js\\selector.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD215B35-EBFE-44A0-9B93-50017FF14C0F}|Jequery\\Jequery.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\jequery\\jequery\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD215B35-EBFE-44A0-9B93-50017FF14C0F}|Jequery\\Jequery.csproj|solutionrelative:jequery\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD215B35-EBFE-44A0-9B93-50017FF14C0F}|Jequery\\Jequery.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\jequery\\jequery\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD215B35-EBFE-44A0-9B93-50017FF14C0F}|Jequery\\Jequery.csproj|solutionrelative:jequery\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD215B35-EBFE-44A0-9B93-50017FF14C0F}|Jequery\\Jequery.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\jequery\\jequery\\wwwroot\\js\\ajax.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BD215B35-EBFE-44A0-9B93-50017FF14C0F}|Jequery\\Jequery.csproj|solutionrelative:jequery\\wwwroot\\js\\ajax.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD215B35-EBFE-44A0-9B93-50017FF14C0F}|Jequery\\Jequery.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\jequery\\jequery\\wwwroot\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD215B35-EBFE-44A0-9B93-50017FF14C0F}|Jequery\\Jequery.csproj|solutionrelative:jequery\\wwwroot\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD215B35-EBFE-44A0-9B93-50017FF14C0F}|Jequery\\Jequery.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\jequery\\jequery\\wwwroot\\data.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD215B35-EBFE-44A0-9B93-50017FF14C0F}|Jequery\\Jequery.csproj|solutionrelative:jequery\\wwwroot\\data.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD215B35-EBFE-44A0-9B93-50017FF14C0F}|Jequery\\Jequery.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\jequery\\jequery\\wwwroot\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BD215B35-EBFE-44A0-9B93-50017FF14C0F}|Jequery\\Jequery.csproj|solutionrelative:jequery\\wwwroot\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Jequery\\Jequery\\Program.cs",
+              "RelativeDocumentMoniker": "Jequery\\Program.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Jequery\\Jequery\\Program.cs",
+              "RelativeToolTip": "Jequery\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:13:01.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Selector.js",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Jequery\\Jequery\\wwwroot\\js\\Selector.js",
+              "RelativeDocumentMoniker": "Jequery\\wwwroot\\js\\Selector.js",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Jequery\\Jequery\\wwwroot\\js\\Selector.js",
+              "RelativeToolTip": "Jequery\\wwwroot\\js\\Selector.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA6wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-30T13:41:23.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Jequery\\Jequery\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Jequery\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Jequery\\Jequery\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Jequery\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T13:33:30.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "data.txt",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Jequery\\Jequery\\wwwroot\\data.txt",
+              "RelativeDocumentMoniker": "Jequery\\wwwroot\\data.txt",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Jequery\\Jequery\\wwwroot\\data.txt",
+              "RelativeToolTip": "Jequery\\wwwroot\\data.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-30T13:29:34.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "data.json",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Jequery\\Jequery\\wwwroot\\data.json",
+              "RelativeDocumentMoniker": "Jequery\\wwwroot\\data.json",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Jequery\\Jequery\\wwwroot\\data.json",
+              "RelativeToolTip": "Jequery\\wwwroot\\data.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-30T13:29:33.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "data.html",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Jequery\\Jequery\\wwwroot\\data.html",
+              "RelativeDocumentMoniker": "Jequery\\wwwroot\\data.html",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Jequery\\Jequery\\wwwroot\\data.html",
+              "RelativeToolTip": "Jequery\\wwwroot\\data.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-30T13:29:32.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ajax.js",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Jequery\\Jequery\\wwwroot\\js\\Ajax.js",
+              "RelativeDocumentMoniker": "Jequery\\wwwroot\\js\\Ajax.js",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Jequery\\Jequery\\wwwroot\\js\\Ajax.js",
+              "RelativeToolTip": "Jequery\\wwwroot\\js\\Ajax.js",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAYwF4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-29T07:58:18.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Jequery\\Jequery\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Jequery\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Jequery\\Jequery\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Jequery\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T04:20:53.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Jequery\\Jequery\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Jequery\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Jequery\\Jequery\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Jequery\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T03:13:12.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
