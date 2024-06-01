@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Jequery")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90aabe9713588803fbb0b2a009ba15dfc387fb6d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80cfbdf0641ff58fb27d22d79856964d23798eac")]
 [assembly: System.Reflection.AssemblyProductAttribute("Jequery")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Jequery")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

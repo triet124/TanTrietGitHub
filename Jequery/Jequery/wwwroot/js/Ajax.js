@@ -2,30 +2,6 @@
 // Đảm bảo rằng toàn bộ tài liệu HTML đã tải xong trước khi chạy mã JavaScript.
 $(document).ready(function () {
 
-    // Sự kiện khi nút "getBtnJson" được nhấn
-    $("#getBtnJson").click(function () {
-        $.ajax({
-            // URL của tệp JSON cần lấy dữ liệu
-            url: "data.json",
-
-            // Phương thức HTTP GET để lấy dữ liệu
-            type: "GET",
-
-            // Hàm này sẽ chạy nếu yêu cầu thành công
-            success: function (data) {
-
-                // Hiển thị dữ liệu JSON trong phần tử có ID "resultJson"
-                $("#resultJson").html(JSON.stringify(data));
-            },
-            // Hàm này sẽ chạy nếu yêu cầu thất bại
-            error: function () {
-
-                // Hiển thị thông báo lỗi
-                alert("Error loading JSON data.");
-            }
-        });
-    });
-
     // Sự kiện khi nút "getBtnHtml" được nhấn
     $("#getBtnHtml").click(function () {
         $.ajax({
@@ -35,6 +11,9 @@ $(document).ready(function () {
 
             // Phương thức HTTP GET để lấy dữ liệu
             type: "GET",
+
+            // Định dạng dữ liệu mong đợi là HTML
+            dataType: "html",
 
             // Hàm này sẽ chạy nếu yêu cầu thành công
             success: function (data) {
@@ -61,6 +40,9 @@ $(document).ready(function () {
 
             // Phương thức HTTP GET để lấy dữ liệu
             type: "GET",
+
+            // Định dạng dữ liệu mong đợi là TEXT
+            dataType: "text",
 
             // Hàm này sẽ chạy nếu yêu cầu thành công
             success: function (data) {

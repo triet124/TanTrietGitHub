@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zHFIJRv7s71toCMD50WpPk5EIi0PzxR72/rW2gqdwHE=",
+  "Hash": "Sn8jO3y2KntKqTYDcBF5b49tDrKKqoYCigXzgg1gOpo=",
   "Source": "Jequery",
   "BasePath": "_content/Jequery",
   "Mode": "Default",
@@ -91,25 +91,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\data.html"
-    },
-    {
-      "Identity": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Jequery\\Jequery\\wwwroot\\data.json",
-      "SourceId": "Jequery",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Jequery\\Jequery\\wwwroot\\",
-      "BasePath": "_content/Jequery",
-      "RelativePath": "data.json",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\data.json"
     },
     {
       "Identity": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Jequery\\Jequery\\wwwroot\\data.txt",
