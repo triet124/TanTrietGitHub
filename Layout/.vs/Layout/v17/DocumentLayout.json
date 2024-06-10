@@ -11,12 +11,8 @@
       "RelativeMoniker": "D:0:0:{8D4D189D-038D-4EBA-B38E-50B18ABD29A3}|layout_temaplate\\layout_temaplate.csproj|solutionrelative:layout_temaplate\\views\\home\\mainsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D4D189D-038D-4EBA-B38E-50B18ABD29A3}|layout_temaplate\\layout_temaplate.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\layout\\layout_temaplate\\views\\home\\nofication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8D4D189D-038D-4EBA-B38E-50B18ABD29A3}|layout_temaplate\\layout_temaplate.csproj|solutionrelative:layout_temaplate\\views\\home\\nofication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D4D189D-038D-4EBA-B38E-50B18ABD29A3}|layout_temaplate\\layout_temaplate.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\layout\\layout_temaplate\\views\\home\\democonfig.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8D4D189D-038D-4EBA-B38E-50B18ABD29A3}|layout_temaplate\\layout_temaplate.csproj|solutionrelative:layout_temaplate\\views\\home\\democonfig.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8D4D189D-038D-4EBA-B38E-50B18ABD29A3}|layout_temaplate\\layout_temaplate.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\layout\\layout_temaplate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D4D189D-038D-4EBA-B38E-50B18ABD29A3}|layout_temaplate\\layout_temaplate.csproj|solutionrelative:layout_temaplate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D4D189D-038D-4EBA-B38E-50B18ABD29A3}|layout_temaplate\\layout_temaplate.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\layout\\layout_temaplate\\views\\home\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -27,8 +23,12 @@
       "RelativeMoniker": "D:0:0:{8D4D189D-038D-4EBA-B38E-50B18ABD29A3}|layout_temaplate\\layout_temaplate.csproj|solutionrelative:layout_temaplate\\views\\home\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D4D189D-038D-4EBA-B38E-50B18ABD29A3}|layout_temaplate\\layout_temaplate.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\layout\\layout_temaplate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8D4D189D-038D-4EBA-B38E-50B18ABD29A3}|layout_temaplate\\layout_temaplate.csproj|solutionrelative:layout_temaplate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8D4D189D-038D-4EBA-B38E-50B18ABD29A3}|layout_temaplate\\layout_temaplate.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\layout\\layout_temaplate\\views\\home\\nofication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D4D189D-038D-4EBA-B38E-50B18ABD29A3}|layout_temaplate\\layout_temaplate.csproj|solutionrelative:layout_temaplate\\views\\home\\nofication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4D189D-038D-4EBA-B38E-50B18ABD29A3}|layout_temaplate\\layout_temaplate.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\layout\\layout_temaplate\\views\\home\\democonfig.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D4D189D-038D-4EBA-B38E-50B18ABD29A3}|layout_temaplate\\layout_temaplate.csproj|solutionrelative:layout_temaplate\\views\\home\\democonfig.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Democonfig.cshtml",
               "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Layout\\layout_temaplate\\Views\\Home\\Democonfig.cshtml",
               "RelativeDocumentMoniker": "layout_temaplate\\Views\\Home\\Democonfig.cshtml",
@@ -54,8 +54,7 @@
               "RelativeToolTip": "layout_temaplate\\Views\\Home\\Democonfig.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-28T08:07:06.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T08:07:06.948Z"
             },
             {
               "$type": "Document",
@@ -65,14 +64,14 @@
               "RelativeDocumentMoniker": "layout_temaplate\\Views\\Home\\MainSidebar.cshtml",
               "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Layout\\layout_temaplate\\Views\\Home\\MainSidebar.cshtml",
               "RelativeToolTip": "layout_temaplate\\Views\\Home\\MainSidebar.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAANAAAA",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAQwLEAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-28T06:58:16.62Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Nofication.cshtml",
               "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Layout\\layout_temaplate\\Views\\Home\\Nofication.cshtml",
               "RelativeDocumentMoniker": "layout_temaplate\\Views\\Home\\Nofication.cshtml",
@@ -80,12 +79,11 @@
               "RelativeToolTip": "layout_temaplate\\Views\\Home\\Nofication.cshtml",
               "ViewState": "AQIAAC0AAAAAAAAAAAAAAJkAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-28T03:00:50.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T03:00:50.707Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Footer.cshtml",
               "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Layout\\layout_temaplate\\Views\\Home\\Footer.cshtml",
               "RelativeDocumentMoniker": "layout_temaplate\\Views\\Home\\Footer.cshtml",
@@ -104,33 +102,33 @@
               "RelativeDocumentMoniker": "layout_temaplate\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Layout\\layout_temaplate\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "layout_temaplate\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAIwA8IAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8IAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-27T14:40:28.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Header.cshtml",
               "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Layout\\layout_temaplate\\Views\\Home\\Header.cshtml",
               "RelativeDocumentMoniker": "layout_temaplate\\Views\\Home\\Header.cshtml",
               "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Layout\\layout_temaplate\\Views\\Home\\Header.cshtml",
               "RelativeToolTip": "layout_temaplate\\Views\\Home\\Header.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIgBAAAYAAAA",
+              "ViewState": "AQIAAIEBAAAAAAAAAAAQwK4BAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-27T14:26:43.631Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Layout\\layout_temaplate\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "layout_temaplate\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\Layout\\layout_temaplate\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "layout_temaplate\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-27T14:21:47.227Z",
               "EditorCaption": ""

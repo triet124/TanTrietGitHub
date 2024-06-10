@@ -1,0 +1,10 @@
+﻿<!--Khai báo ng-app để có thể sử dụng lấy và hiển thị dữ liệu-->
+<div class="page-content" ng-app="myApp" ng-controller="myCtrl">
+    <!--Modal được tạo ra từ directive có restrict là E-->
+    <stc-modal title="Thông báo" content="contents" myroot="myroots" ></stc-modal>
+
+    <main>
+        <!--Nút mở form modal-->
+        <button type="button" class="btn btn-primary m-4" data-bs-toggle="modal" data-bs-target="#modal_full">Create <i class="ph-play-circle ms-2"></i></button>
+    </main>
+</div>

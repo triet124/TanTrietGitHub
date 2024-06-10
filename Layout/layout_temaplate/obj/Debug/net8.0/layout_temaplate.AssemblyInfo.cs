@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("layout_temaplate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+025fb240a47dbf9105eada24c6cc26f0f9cbe061")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c27e1e99f954ad2e445f184b2ba39ca9d90b33b")]
 [assembly: System.Reflection.AssemblyProductAttribute("layout_temaplate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("layout_temaplate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
