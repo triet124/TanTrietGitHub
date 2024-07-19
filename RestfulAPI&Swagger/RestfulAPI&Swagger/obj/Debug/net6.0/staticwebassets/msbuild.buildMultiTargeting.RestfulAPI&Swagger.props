@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RestfulAPI&amp;Swagger.props" />
+</Project>

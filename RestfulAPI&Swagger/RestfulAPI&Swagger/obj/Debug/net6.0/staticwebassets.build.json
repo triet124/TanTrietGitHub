@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m6vrPWdVQoLXQD2he0YJvNKRQ2B7JVcyMiS2Wa/cEqw=",
+  "Source": "RestfulAPI&Swagger",
+  "BasePath": "_content/RestfulAPI&Swagger",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

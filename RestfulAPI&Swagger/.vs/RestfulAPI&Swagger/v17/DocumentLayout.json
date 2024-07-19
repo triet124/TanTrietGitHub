@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\RestfulAPI\u0026Swagger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9286AE6D-4B05-45B9-8157-EEA2CA8E0CC1}|RestfulAPI\u0026Swagger\\RestfulAPI\u0026Swagger.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\restfulapi\u0026swagger\\restfulapi\u0026swagger\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9286AE6D-4B05-45B9-8157-EEA2CA8E0CC1}|RestfulAPI\u0026Swagger\\RestfulAPI\u0026Swagger.csproj|solutionrelative:restfulapi\u0026swagger\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9286AE6D-4B05-45B9-8157-EEA2CA8E0CC1}|RestfulAPI\u0026Swagger\\RestfulAPI\u0026Swagger.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\restfulapi\u0026swagger\\restfulapi\u0026swagger\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9286AE6D-4B05-45B9-8157-EEA2CA8E0CC1}|RestfulAPI\u0026Swagger\\RestfulAPI\u0026Swagger.csproj|solutionrelative:restfulapi\u0026swagger\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9286AE6D-4B05-45B9-8157-EEA2CA8E0CC1}|RestfulAPI\u0026Swagger\\RestfulAPI\u0026Swagger.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\restfulapi\u0026swagger\\restfulapi\u0026swagger\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9286AE6D-4B05-45B9-8157-EEA2CA8E0CC1}|RestfulAPI\u0026Swagger\\RestfulAPI\u0026Swagger.csproj|solutionrelative:restfulapi\u0026swagger\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9286AE6D-4B05-45B9-8157-EEA2CA8E0CC1}|RestfulAPI\u0026Swagger\\RestfulAPI\u0026Swagger.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\restfulapi\u0026swagger\\restfulapi\u0026swagger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9286AE6D-4B05-45B9-8157-EEA2CA8E0CC1}|RestfulAPI\u0026Swagger\\RestfulAPI\u0026Swagger.csproj|solutionrelative:restfulapi\u0026swagger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9286AE6D-4B05-45B9-8157-EEA2CA8E0CC1}|RestfulAPI\u0026Swagger\\RestfulAPI\u0026Swagger.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\restfulapi\u0026swagger\\restfulapi\u0026swagger\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9286AE6D-4B05-45B9-8157-EEA2CA8E0CC1}|RestfulAPI\u0026Swagger\\RestfulAPI\u0026Swagger.csproj|solutionrelative:restfulapi\u0026swagger\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9286AE6D-4B05-45B9-8157-EEA2CA8E0CC1}|RestfulAPI\u0026Swagger\\RestfulAPI\u0026Swagger.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\restfulapi\u0026swagger\\restfulapi\u0026swagger\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9286AE6D-4B05-45B9-8157-EEA2CA8E0CC1}|RestfulAPI\u0026Swagger\\RestfulAPI\u0026Swagger.csproj|solutionrelative:restfulapi\u0026swagger\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\RestfulAPI\u0026Swagger\\RestfulAPI\u0026Swagger\\appsettings.json",
+              "RelativeDocumentMoniker": "RestfulAPI\u0026Swagger\\appsettings.json",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\RestfulAPI\u0026Swagger\\RestfulAPI\u0026Swagger\\appsettings.json",
+              "RelativeToolTip": "RestfulAPI\u0026Swagger\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-17T02:03:32.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\RestfulAPI\u0026Swagger\\RestfulAPI\u0026Swagger\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "RestfulAPI\u0026Swagger\\WeatherForecast.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\RestfulAPI\u0026Swagger\\RestfulAPI\u0026Swagger\\WeatherForecast.cs",
+              "RelativeToolTip": "RestfulAPI\u0026Swagger\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T02:03:28.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\RestfulAPI\u0026Swagger\\RestfulAPI\u0026Swagger\\Program.cs",
+              "RelativeDocumentMoniker": "RestfulAPI\u0026Swagger\\Program.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\RestfulAPI\u0026Swagger\\RestfulAPI\u0026Swagger\\Program.cs",
+              "RelativeToolTip": "RestfulAPI\u0026Swagger\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T03:01:21.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\RestfulAPI\u0026Swagger\\RestfulAPI\u0026Swagger\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "RestfulAPI\u0026Swagger\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\RestfulAPI\u0026Swagger\\RestfulAPI\u0026Swagger\\Controllers\\StudentController.cs*",
+              "RelativeToolTip": "RestfulAPI\u0026Swagger\\Controllers\\StudentController.cs*",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T02:53:15.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\RestfulAPI\u0026Swagger\\RestfulAPI\u0026Swagger\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "RestfulAPI\u0026Swagger\\Model\\Student.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\RestfulAPI\u0026Swagger\\RestfulAPI\u0026Swagger\\Model\\Student.cs*",
+              "RelativeToolTip": "RestfulAPI\u0026Swagger\\Model\\Student.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T02:49:39.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\RestfulAPI\u0026Swagger\\RestfulAPI\u0026Swagger\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "RestfulAPI\u0026Swagger\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\RestfulAPI\u0026Swagger\\RestfulAPI\u0026Swagger\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "RestfulAPI\u0026Swagger\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T02:36:57.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

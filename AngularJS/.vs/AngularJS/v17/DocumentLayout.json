@@ -7,20 +7,16 @@
       "RelativeMoniker": "D:0:0:{8B4AF00F-78B0-42D8-A4AC-08AA1B6708B3}|AngularJS\\AngularJS.csproj|solutionrelative:angularjs\\wwwroot\\js\\angularjs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8B4AF00F-78B0-42D8-A4AC-08AA1B6708B3}|AngularJS\\AngularJS.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\angularjs\\angularjs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B4AF00F-78B0-42D8-A4AC-08AA1B6708B3}|AngularJS\\AngularJS.csproj|solutionrelative:angularjs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8B4AF00F-78B0-42D8-A4AC-08AA1B6708B3}|AngularJS\\AngularJS.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\angularjs\\angularjs\\wwwroot\\html\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8B4AF00F-78B0-42D8-A4AC-08AA1B6708B3}|AngularJS\\AngularJS.csproj|solutionrelative:angularjs\\wwwroot\\html\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B4AF00F-78B0-42D8-A4AC-08AA1B6708B3}|AngularJS\\AngularJS.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\angularjs\\angularjs\\views\\home\\mainsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8B4AF00F-78B0-42D8-A4AC-08AA1B6708B3}|AngularJS\\AngularJS.csproj|solutionrelative:angularjs\\views\\home\\mainsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8B4AF00F-78B0-42D8-A4AC-08AA1B6708B3}|AngularJS\\AngularJS.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\angularjs\\angularjs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8B4AF00F-78B0-42D8-A4AC-08AA1B6708B3}|AngularJS\\AngularJS.csproj|solutionrelative:angularjs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B4AF00F-78B0-42D8-A4AC-08AA1B6708B3}|AngularJS\\AngularJS.csproj|d:\\fpt poly teachnic\\stc\\trantantrietgithub\\tantrietgithub\\angularjs\\angularjs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8B4AF00F-78B0-42D8-A4AC-08AA1B6708B3}|AngularJS\\AngularJS.csproj|solutionrelative:angularjs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\AngularJS\\AngularJS\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "AngularJS\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\AngularJS\\AngularJS\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "AngularJS\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-03T02:57:33.149Z",
               "IsPinned": true,
@@ -52,29 +48,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainSidebar.cshtml",
-              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\AngularJS\\AngularJS\\Views\\Home\\MainSidebar.cshtml",
-              "RelativeDocumentMoniker": "AngularJS\\Views\\Home\\MainSidebar.cshtml",
-              "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\AngularJS\\AngularJS\\Views\\Home\\MainSidebar.cshtml",
-              "RelativeToolTip": "AngularJS\\Views\\Home\\MainSidebar.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T03:51:29.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\AngularJS\\AngularJS\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "AngularJS\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\AngularJS\\AngularJS\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "AngularJS\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-05T01:44:12.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T01:44:12.959Z"
             },
             {
               "$type": "Document",
@@ -84,20 +66,20 @@
               "RelativeDocumentMoniker": "AngularJS\\wwwroot\\js\\angularJS.js",
               "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\AngularJS\\AngularJS\\wwwroot\\js\\angularJS.js",
               "RelativeToolTip": "AngularJS\\wwwroot\\js\\angularJS.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAABIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-06-05T01:34:12.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "index.html",
               "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\AngularJS\\AngularJS\\wwwroot\\html\\index.html",
               "RelativeDocumentMoniker": "AngularJS\\wwwroot\\html\\index.html",
               "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTrietGitHub\\TanTrietGitHub\\AngularJS\\AngularJS\\wwwroot\\html\\index.html",
               "RelativeToolTip": "AngularJS\\wwwroot\\html\\index.html",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAUwB0AAABlAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-06-05T03:57:16.924Z",
               "EditorCaption": ""

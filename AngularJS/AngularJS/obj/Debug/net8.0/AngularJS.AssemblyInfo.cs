@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AngularJS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c27e1e99f954ad2e445f184b2ba39ca9d90b33b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41cb09fd723d1f1e06dbe9a879c01c568d304152")]
 [assembly: System.Reflection.AssemblyProductAttribute("AngularJS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AngularJS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

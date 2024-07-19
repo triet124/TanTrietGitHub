@@ -1,0 +1,196 @@
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\obj\Debug\net5.0\JWT.csproj.AssemblyReference.cache
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\obj\Debug\net5.0\JWT.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\obj\Debug\net5.0\JWT.AssemblyInfoInputs.cache
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\obj\Debug\net5.0\JWT.AssemblyInfo.cs
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\obj\Debug\net5.0\JWT.csproj.CoreCompileInputs.cache
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\obj\Debug\net5.0\JWT.MvcApplicationPartsAssemblyInfo.cs
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\obj\Debug\net5.0\JWT.MvcApplicationPartsAssemblyInfo.cache
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\appsettings.Development.json
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\appsettings.json
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\JWT.exe
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\JWT.deps.json
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\JWT.runtimeconfig.json
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\JWT.runtimeconfig.dev.json
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\JWT.dll
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\JWT.pdb
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\Humanizer.dll
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\obj\Debug\net5.0\JWT.RazorTargetAssemblyInfo.cache
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\obj\Debug\net5.0\scopedcss\bundle\JWT.styles.css
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\obj\Debug\net5.0\staticwebassets\JWT.StaticWebAssets.Manifest.cache
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\obj\Debug\net5.0\staticwebassets\JWT.StaticWebAssets.Pack.cache
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\obj\Debug\net5.0\staticwebassets\msbuild.JWT.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\obj\Debug\net5.0\staticwebassets\msbuild.build.JWT.props
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.JWT.props
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.JWT.props
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\obj\Debug\net5.0\JWT.csproj.Up2Date
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\obj\Debug\net5.0\JWT.dll
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\obj\Debug\net5.0\refint\JWT.dll
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\obj\Debug\net5.0\JWT.pdb
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\obj\Debug\net5.0\JWT.genruntimeconfig.cache
+D:\FPT POLY TEACHNIC\C# 5\Demo\JWT\JWT\obj\Debug\net5.0\ref\JWT.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\appsettings.Development.json
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\appsettings.json
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\JWT.exe
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\JWT.deps.json
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\JWT.runtimeconfig.json
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\JWT.runtimeconfig.dev.json
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\JWT.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\JWT.pdb
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\Humanizer.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\obj\Debug\net5.0\JWT.csproj.AssemblyReference.cache
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\obj\Debug\net5.0\JWT.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\obj\Debug\net5.0\JWT.AssemblyInfoInputs.cache
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\obj\Debug\net5.0\JWT.AssemblyInfo.cs
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\obj\Debug\net5.0\JWT.csproj.CoreCompileInputs.cache
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\obj\Debug\net5.0\JWT.MvcApplicationPartsAssemblyInfo.cs
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\obj\Debug\net5.0\JWT.MvcApplicationPartsAssemblyInfo.cache
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\obj\Debug\net5.0\JWT.RazorTargetAssemblyInfo.cache
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\obj\Debug\net5.0\scopedcss\bundle\JWT.styles.css
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\obj\Debug\net5.0\staticwebassets\JWT.StaticWebAssets.Manifest.cache
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\obj\Debug\net5.0\staticwebassets\JWT.StaticWebAssets.Pack.cache
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\obj\Debug\net5.0\staticwebassets\msbuild.JWT.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\obj\Debug\net5.0\staticwebassets\msbuild.build.JWT.props
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.JWT.props
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.JWT.props
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\obj\Debug\net5.0\JWT.csproj.Up2Date
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\obj\Debug\net5.0\JWT.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\obj\Debug\net5.0\refint\JWT.dll
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\obj\Debug\net5.0\JWT.pdb
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\obj\Debug\net5.0\JWT.genruntimeconfig.cache
+D:\FPT POLY TEACHNIC\C# 5\Lab\TrietTT_PC06359_Lab7\JWT\JWT\obj\Debug\net5.0\ref\JWT.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\appsettings.Development.json
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\appsettings.json
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\JWT.exe
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\JWT.deps.json
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\JWT.runtimeconfig.json
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\JWT.runtimeconfig.dev.json
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\JWT.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\JWT.pdb
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\Humanizer.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\obj\Debug\net5.0\JWT.csproj.AssemblyReference.cache
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\obj\Debug\net5.0\JWT.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\obj\Debug\net5.0\JWT.AssemblyInfoInputs.cache
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\obj\Debug\net5.0\JWT.AssemblyInfo.cs
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\obj\Debug\net5.0\JWT.csproj.CoreCompileInputs.cache
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\obj\Debug\net5.0\JWT.MvcApplicationPartsAssemblyInfo.cs
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\obj\Debug\net5.0\JWT.MvcApplicationPartsAssemblyInfo.cache
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\obj\Debug\net5.0\JWT.sourcelink.json
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\obj\Debug\net5.0\JWT.RazorTargetAssemblyInfo.cache
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\obj\Debug\net5.0\scopedcss\bundle\JWT.styles.css
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\obj\Debug\net5.0\staticwebassets\JWT.StaticWebAssets.Manifest.cache
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\obj\Debug\net5.0\staticwebassets\JWT.StaticWebAssets.Pack.cache
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\obj\Debug\net5.0\staticwebassets\msbuild.JWT.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\obj\Debug\net5.0\staticwebassets\msbuild.build.JWT.props
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.JWT.props
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.JWT.props
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\obj\Debug\net5.0\JWT.csproj.Up2Date
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\obj\Debug\net5.0\JWT.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\obj\Debug\net5.0\refint\JWT.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\obj\Debug\net5.0\JWT.pdb
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\obj\Debug\net5.0\JWT.genruntimeconfig.cache
+D:\FPT POLY TEACHNIC\STC\TranTanTrietGitHub\TanTrietGitHub\JWT\JWT\obj\Debug\net5.0\ref\JWT.dll
